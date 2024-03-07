@@ -1,3 +1,7 @@
+# Expense Tracker
+To Track your expenses & income showing a record of histories of transactions. And also, the application to add on your transaction lists.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
