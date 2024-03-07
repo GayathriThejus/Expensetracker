@@ -9,7 +9,7 @@ import { GlobalProvider } from './context/GlobalState.js';
 function App() {
   return (
     <GlobalProvider>
-      <Header/>
+      <Header name="tracker"/>
       <div className='container'>
         <Balance/>
         <IncomeExpences/>

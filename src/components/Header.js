@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Header = () => {
+const Header = props => {
   return (
     <h2>
-        Expense Tracker
+        Expense {props.name}
     </h2>
   )
 }
